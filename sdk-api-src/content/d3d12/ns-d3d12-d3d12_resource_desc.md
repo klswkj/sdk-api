@@ -158,7 +158,7 @@ TEXTURE1D, TEXTURE2D, and TEXTURE3D are not supported orthogonally on every form
 </li>
 <li>For TEXTURE3D:
  <ul>
-<li><i>Width</i> and <i>Height</i> and <i>DepthOrArraySize</i> must be less than or equal to D3D10_REQ_TEXTURE3D_U_V_OR_W_DIMENSION on feature levels less than 11_0 and D3D11_REQ_TEXTURE2D_U_V_OR_W_DIMENSION on feature level 11_0 or greater.
+<li><i>Width</i> and <i>Height</i> and <i>DepthOrArraySize</i> must be less than or equal to D3D10_REQ_TEXTURE3D_U_V_OR_W_DIMENSION on feature levels less than 11_0 and D3D11_REQ_TEXTURE3D_U_V_OR_W_DIMENSION on feature level 11_0 or greater.
  </li>
 <li><i>DepthOrArraySize</i> is interpreted as depth.</li>
 </ul>
